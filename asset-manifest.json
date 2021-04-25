@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/houseofchina/static/css/main.53680aa3.chunk.css",
+    "main.js": "/houseofchina/static/js/main.ce716e54.chunk.js",
+    "main.js.map": "/houseofchina/static/js/main.ce716e54.chunk.js.map",
+    "runtime-main.js": "/houseofchina/static/js/runtime-main.09a4be33.js",
+    "runtime-main.js.map": "/houseofchina/static/js/runtime-main.09a4be33.js.map",
+    "static/css/2.150d169a.chunk.css": "/houseofchina/static/css/2.150d169a.chunk.css",
+    "static/js/2.7b82c090.chunk.js": "/houseofchina/static/js/2.7b82c090.chunk.js",
+    "static/js/2.7b82c090.chunk.js.map": "/houseofchina/static/js/2.7b82c090.chunk.js.map",
+    "static/js/3.2acc0886.chunk.js": "/houseofchina/static/js/3.2acc0886.chunk.js",
+    "static/js/3.2acc0886.chunk.js.map": "/houseofchina/static/js/3.2acc0886.chunk.js.map",
+    "index.html": "/houseofchina/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/houseofchina/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.53680aa3.chunk.css.map": "/houseofchina/static/css/main.53680aa3.chunk.css.map",
+    "static/js/2.7b82c090.chunk.js.LICENSE.txt": "/houseofchina/static/js/2.7b82c090.chunk.js.LICENSE.txt",
+    "static/media/front3.9d2b2efe.jpg": "/houseofchina/static/media/front3.9d2b2efe.jpg",
+    "static/media/logo.ce461c16.png": "/houseofchina/static/media/logo.ce461c16.png",
+    "static/media/resturant.6e6a892c.jpg": "/houseofchina/static/media/resturant.6e6a892c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09a4be33.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7b82c090.chunk.js",
+    "static/css/main.53680aa3.chunk.css",
+    "static/js/main.ce716e54.chunk.js"
+  ]
+}
