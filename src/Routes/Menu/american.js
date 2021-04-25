@@ -9,7 +9,7 @@ class American extends Component {
           <Col>
             <Card style={{ border: "none" }}>
               <Card.Body>
-                <Card.Title>Fried Shrimp | $12.55</Card.Title>
+                <Card.Title>Fried Shrimpa | $12.55</Card.Title>
                 <Card.Text>12 pieces of crispy, fried shrimp with a choice of french fries or rice</Card.Text>
               </Card.Body>
             </Card>
