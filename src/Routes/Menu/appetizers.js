@@ -5,7 +5,7 @@ import "./LunchMenu/lunch.css";
 class Appetizers extends Component {
   render() {
     return (
-      <Container fluid>
+      <Container fluid className="block-example border-bottom border-dark">
         <Row>
           <Col>
             <Card style={{ border: "none" }}>

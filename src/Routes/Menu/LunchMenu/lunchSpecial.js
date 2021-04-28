@@ -4,7 +4,7 @@ import { ListGroup, Card, Col, Row, Container } from "react-bootstrap";
 class LunchSpecials extends Component {
   render() {
     return (
-      <Container fluid>
+      <Container fluid className="block-example border-bottom border-dark">
         <Row>
           <Col>
             <Card style={{ border: "none" }}>

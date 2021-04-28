@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <Navbar bg="light" expand="lg">
-        <Navbar.Brand href="/home">
+        <Navbar.Brand href="/houseofchina">
           <img
             alt=""
             src={Logo}
@@ -26,12 +26,13 @@ function App() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/menu">Menu</Nav.Link>
+            <Nav.Link href="/houseofchina">Menu</Nav.Link>
             {/* <Nav.Link href="/career">Career</Nav.Link>
             <Nav.Link href="/location">Location</Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>
+      <Menu></Menu>
       <Router>
         <div>
           <Switch>

@@ -30,14 +30,13 @@ class Menu extends Component {
     return (
       <div>
         <Jumbotron>
-          <h4>Text</h4>
           <h4>Healthy Food Made From Fresh Ingredients.</h4>
           <p>Low in Fat, Oil and Cholesterol</p>
         </Jumbotron>
         <Container fluid>
           <Row>
             <Col>
-              <ListGroup variant="flush">
+              <ListGroup variant="flush" className="block-example border border-dark">
                 <ListGroup.Item>
                   <a href="#appetizers">Appetizers</a>
                 </ListGroup.Item>
